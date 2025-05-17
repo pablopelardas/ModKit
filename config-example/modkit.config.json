@@ -1,0 +1,7 @@
+{
+  "BasePath": "D:/working/web-boost/ModKit/demo",
+  "ModulesPath": "src/modules",
+  "SolutionPath": "demo.sln",
+  "TemplatesPath": "templates",
+  "NamespaceRoot": "Demo.Modules"
+}

@@ -1,0 +1,7 @@
+{
+  "BasePath": "D:/working/web-boost/cake-flow-mc/CakeFlow",
+  "ModulesPath": "src/modules",
+  "SolutionPath": "CakeFlow.sln",
+  "TemplatesPath": "modkit/Templates",
+  "NamespaceRoot": "CakeFlow.Modules"
+}
